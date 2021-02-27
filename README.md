@@ -3,6 +3,7 @@ Link to our website http://www.healthyhabitz.me/
 
 
 Deployed using Heroku
+
 Developed using: 
   - HTML, CSS
   - JavaScript
